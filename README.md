@@ -1,2 +1,3 @@
 # octtye
 
+ wget
